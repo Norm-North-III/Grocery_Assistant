@@ -1,5 +1,8 @@
 # Grocery_Assistant
 *Helping make financially sound and time-saving grocery decisions*
 
-Takes an excel document containing worksheets populated with receipt data from recent grocery store trips.
+## Source Data
+Data will primarily be extracted utilizing Excel's picture to spreadsheet function to start. Python script will clean spreadsheets and prepare them for analysis
 * Alert user when items may be expiring or another trip must be made.
+* Show percentiles for grocery expenditures
+* Calculate average grocery costs across all visits on a monthly basis
