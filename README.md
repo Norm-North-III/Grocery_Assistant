@@ -1,5 +1,5 @@
 # Grocery_Assistant
-*Helping make financially sound and time-saving grocery decisions* \n
+*Helping make financially sound and time-saving grocery decisions* /n
 *Note: This is an ongoing project I am working on in my free-time, it is not yet complete*
 
 ## Source Data
