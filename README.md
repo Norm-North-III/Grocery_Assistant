@@ -1,6 +1,5 @@
 # Grocery_Assistant
-*Helping make financially sound and time-saving grocery decisions* /n
-*Note: This is an ongoing project I am working on in my free-time, it is not yet complete*
+*Helping make financially sound and time-saving grocery decisions* (this is an ongoing project and is not yet complete)
 
 ## Source Data
 Data will primarily be extracted from receipts utilizing Excel's picture to spreadsheet function to start. Python script will clean spreadsheets and prepare them for analysis
